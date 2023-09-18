@@ -13,7 +13,7 @@
     "ios": "9.0"
   },
   "source": {
-    "http": "https://github.com/lts-sdk/lts-ios-sdk/archive/refs/tags/1.0.15.zip"
+    "http": "http://js-agent.obs.cn-north-4.myhuaweicloud.com/lts-ios-sdk-1.0.15.zip"
   },
   "vendored_frameworks": "LTSSDK.xcframework"
 }
