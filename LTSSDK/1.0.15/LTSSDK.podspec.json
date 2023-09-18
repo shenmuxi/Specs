@@ -1,0 +1,19 @@
+{
+  "name": "LTSSDK",
+  "version": "1.0.15",
+  "summary": "LTSSDK.",
+  "description": "LTSSDK Framework",
+  "homepage": "https://github.com/lts-sdk",
+  "license": {
+    "type": "Apache",
+    "file": "LICENSE.txt"
+  },
+  "authors": "LTS iOS Team",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "http": "https://github.com/lts-sdk/lts-ios-sdk/archive/refs/tags/1.0.15.zip"
+  },
+  "vendored_frameworks": "LTSSDK.xcframework"
+}
