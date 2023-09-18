@@ -13,7 +13,7 @@
     "ios": "9.0"
   },
   "source": {
-    "http": "https://github.com/lts-sdk/lts-ios-sdk/archive/refs/tags/1.0.15.zip"
+    "http": "https://contentcenter-vali-drcn.dbankcdn.cn/pvt_2/DeveloperAlliance_package_901_9/bb/v3/8EErhdAFTFmufmKSWTMBrw/analyticssdk-ios-6.10.0.311.zip?HW-CC-KV=V1&HW-CC-Date=20230524T005801Z&HW-CC-Expire=315360000&HW-CC-Sign=F995C8632D2D8F831F5781E0C41BD9E45BA48EDB371D3EA9C49D72A5EE8B5FC2"
   },
-  "vendored_frameworks": "LTSSDK.xcframework"
+  "vendored_frameworks": "HiAnalytics.xcframework"
 }
